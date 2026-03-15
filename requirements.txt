@@ -1,0 +1,5 @@
+packaging==26.0
+opencv-python 
+numpy 
+pytesseract 
+pandas
