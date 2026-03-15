@@ -8,12 +8,6 @@ __pycache__/
 env/
 venv/
 
-# Project data and logs
-data/logs/
-data/plates/
-*.csv
-logs.py
-
 # OS files
 .DS_Store
 Thumbs.db
